@@ -1,0 +1,18 @@
+﻿Bu mükemmel tuğla kırma oyununda, tüm seviyelerdeki tüm kırılabilir tuğlaları kırmayı deneyin!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Ayrıntılı kurallar oyunda.
+
+Özellikler:
+-250 seviye
+-3 Farklı oyun hızı
+-21 Farklı bonus
+-2 kontrol seçeneği(dokunmatik & eğim hassasiyeti)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

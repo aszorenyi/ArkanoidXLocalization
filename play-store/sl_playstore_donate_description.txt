@@ -1,0 +1,19 @@
+﻿Poskusi razbiti vse zidove na vseh stopnjah v tej odlični igri razbijanja zidov z žogico. 
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Natančna navodila so v igri. 
+
+Lastnosti igre: 
+- 4 načini igranja
+- 250 stopenj 
+- 3 hitrosti igranja 
+- 21 različnih izboljšav 
+- dva načina upravljanja loparja (na dotik, ali z nagibanjem naprave)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

@@ -16,3 +16,5 @@ In this folder create a file named `strings.xml`, then copy and paste the conten
 
 Language files contains the translators name (`translated_by` key), e-mail address (`translator_email` key) and website (`translator_website` key). These strings are shown in the About menu on Translation tab. If you don't want to make them public, just leave these keys empty, or use a dash.
 
+### Play Store descriptions
+Google Play Store descriptions are located in the [play-store](https://github.com/aszorenyi/ArkanoidXLocalization/blob/master/play-store/) folder. File name format is `xx_playstore_description.txt` for the Free version and `xx_playstore_donate_description.txt` for the Donate version where `xx` is the correct [two letter language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes#Partial_ISO_639_table).

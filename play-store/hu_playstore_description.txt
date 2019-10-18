@@ -1,0 +1,13 @@
+﻿Próbálja meg összetörni az összes téglát és teljesíteni az összes pályát ebben a remek faltörő játékban!
+
+Részletes szabályok a játékban.
+
+Funkciók:
+- Teljesen ingyenes és reklámmentes
+- 4 játékmód
+- 190 pálya
+- 3 sebesség
+- 21 különböző felvehető bónusz
+- Kétféle irányítási mód (érintéssel vagy döntéssel)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

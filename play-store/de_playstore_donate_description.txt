@@ -1,0 +1,18 @@
+﻿Versuche alle Steine zu zerstören in diesem großartigen Brick-Breaking-Spiel! 
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Detaillierte Regeln findest du im Spiel. 
+
+ Features: 
+- 250 Level 
+- 3 Spielgeschwindingkeiten 
+- 21 verschiedene Power-ups 
+- 2 Kontrollmöglichkeiten (Touch & Bewegungssensor)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

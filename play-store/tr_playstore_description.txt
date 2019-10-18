@@ -1,0 +1,11 @@
+﻿Bu mükemmel tuğla kırma oyununda, tüm seviyelerdeki tüm kırılabilir tuğlaları kırmayı deneyin!
+
+Ayrıntılı kurallar oyunda.
+
+Özellikler:
+-190 seviye
+-3 Farklı oyun hızı
+-21 Farklı bonus
+-2 kontrol seçeneği(dokunmatik & eğim hassasiyeti)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

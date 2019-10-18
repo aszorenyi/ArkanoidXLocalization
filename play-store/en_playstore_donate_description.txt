@@ -1,0 +1,19 @@
+﻿Try to break all breakable bricks on every level in this really great brick breaking game!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Detailed rules are in the game.
+
+Features:
+- 4 Game Modes
+- 250 levels
+- 3 Game Speeds
+- 21 different Power-Ups
+- Two control modes (touch & tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

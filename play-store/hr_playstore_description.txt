@@ -1,0 +1,14 @@
+﻿Pokušaj razbiti sve blokove na svakoj razini u najboljoj brick breaker igri ikada!
+
+Detaljnija pravila su u igri.
+
+Značajke:
+
+- Potpuno besplatna igra bez reklama
+- 4 načina igre
+- 190 razina
+- 3 brzine igre
+- 21 različite nadogradnje
+- Dva načina kontrole (na dodir i pomoću akcelometra)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

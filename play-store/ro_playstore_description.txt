@@ -1,0 +1,12 @@
+﻿Încercați să spargeti toate caramizile casabile pe fiecare nivel în acest joc grozav!
+
+Regulile detaliate le gasiti in joc.
+
+Detalii:
+- Gratuit si fara reclame
+- 190 de nivele
+- 3 viteze de joc
+- 21 Bonusuri diferite
+- Doua moduri de control (tactil si cu giroscopul telefonului)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

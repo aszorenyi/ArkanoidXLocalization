@@ -1,0 +1,19 @@
+﻿Essayez de casser toutes les briques destructibles de chaque niveau dans ce fantastique jeu de casse-briques !
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Les règles sont détaillées dans le jeu.
+
+Fonctions:
+- 4 Modes de jeu
+- 250 Niveaux
+- 3 Vitesses de jeux
+- 21 Bonus différents
+- Deux modes de contrôle (tactile et gyroscope du téléphone)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

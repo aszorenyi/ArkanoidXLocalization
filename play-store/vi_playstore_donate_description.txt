@@ -1,0 +1,19 @@
+﻿Cố gắng phá vỡ tất cả viên gạch có thể phá ở mỗi cấp độ trong trò chơi phá vỡ gạch thực sự tuyệt vời này!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Các quy định được chi tiết trong trò chới.
+
+Các tính năng:
+- 4 kiểu chơi
+- 250 cấp độ
+- 3 tốc độ chơi
+- 21 Tăng Sức Mạnh khác nhau
+- 2 kiểu điều khiển (chạm &amp; nghiêng)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

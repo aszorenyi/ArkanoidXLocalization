@@ -1,0 +1,12 @@
+﻿Prova a rompere tutti i mattoni che si possono rompere  in ogni livello di questo grande braking game!
+
+I dettagli sulle regole sono nel gioco.
+
+Features:
+- Completamente senza pubblicità
+- 4 modalità di gioco
+- 190 livelli
+- 3 velocità di gioco
+- due modalità di controllo (touch e tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

@@ -1,0 +1,13 @@
+﻿Essayez de casser toutes les briques destructibles de chaque niveau dans ce fantastique jeu de casse-briques !
+
+Les règles sont détaillées dans le jeu.
+
+Fonctions:
+- Entièrement gratuit et sans publicité
+- 4 Modes de jeu
+- 190 Niveaux
+- 3 Vitesses de jeux
+- 21 Bonus différents
+- Deux modes de contrôle (tactile et gyroscope du téléphone)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

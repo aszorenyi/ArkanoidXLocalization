@@ -1,0 +1,16 @@
+﻿Spróbuj zbić wszystkie cegiełki na każdym poziomie. To najlepszy Arkanoid w jakiego grałeś!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Właściwości:
+- 250 poziomów
+- 3 prędkości gry
+- 21 różnych bonusów
+- 2 rodzaje sterowania (dotyk i przechylanie/tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

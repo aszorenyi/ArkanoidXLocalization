@@ -1,0 +1,13 @@
+﻿Try to break all breakable bricks on every level in this really great brick breaking game!
+
+Detailed rules are in the game.
+
+Features:
+- Completely free without ads
+- 4 Game Modes
+- 190 levels
+- 3 Game Speeds
+- 21 different Power-Ups
+- Two control modes (touch & tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

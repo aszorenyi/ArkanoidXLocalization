@@ -1,0 +1,13 @@
+﻿Intenta romper todos los ladrillos den cada nivel en este espectacular juego.
+
+Las reglas detalladas están en el juego.
+
+Características:
+- Totalmente gratis y sin publicidad
+- 4 Modos de juego
+- 190 niveles
+- 3 Velocidades
+- 21 tipos diferentes de Poderes
+- Dos formas de control (táctil y por inclinación)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

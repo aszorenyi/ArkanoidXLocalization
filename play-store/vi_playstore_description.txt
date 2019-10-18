@@ -1,0 +1,13 @@
+﻿Cố gắng phá vỡ tất cả viên gạch có thể phá ở mỗi cấp độ trong trò chơi phá vỡ gạch thực sự tuyệt vời này!
+
+Các quy định được chi tiết trong trò chới.
+
+Các tính năng:
+- Hoàn toàn miễn phí mà không có quảng cáo
+- 4 kiểu chơi
+- 190 cấp độ
+- 3 tốc độ chơi
+- 21 Tăng Sức Mạnh khác nhau
+- 2 kiểu điều khiển (chạm &amp; nghiêng)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

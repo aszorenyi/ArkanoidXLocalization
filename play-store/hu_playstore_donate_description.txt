@@ -1,0 +1,19 @@
+﻿Próbálja meg összetörni az összes téglát és teljesíteni az összes pályát ebben a remek faltörő játékban!
+
+Extra funkciók a Donate verzióban:
+- Egyetlen gombnyomással feloldható az összes pálya
+- Több pálya
+- Megszerezhető jutalmak a Google Play Játékszolgáltatásokon keresztül
+
+Továbbá a Donate verzió megvásárlásával támogatja a további fejlesztést.
+
+Részletes szabályok a játékban.
+
+Funkciók:
+- 4 játékmód
+- 250 pálya
+- 3 sebesség
+- 21 különböző felvehető bónusz
+- Kétféle irányítási mód (érintéssel vagy döntéssel)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

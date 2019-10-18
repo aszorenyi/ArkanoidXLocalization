@@ -1,0 +1,19 @@
+﻿Попробуй разбить все кирпичики на каждом уровне в этой действительно захватывающей игре!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Подробные правила смотри в игре.
+
+Особенности:
+- 4 Режима игры
+- 250 уровней
+- 3 скорости игры
+- 21 различных бонусов
+- два режима управления (сенсорный и наклон)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

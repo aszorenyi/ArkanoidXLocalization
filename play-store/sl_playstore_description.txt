@@ -1,0 +1,13 @@
+﻿Poskusi razbiti vse zidove na vseh stopnjah v tej odlični igri razbijanja zidov z žogico. 
+
+Natančna navodila so v igri. 
+
+Lastnosti igre: 
+- Povsem brezplačna igra, brez oglasov 
+- 4 načini igranja
+- 190 stopenj 
+- 3 hitrosti igranja 
+- 21 različnih izboljšav 
+- dva načina upravljanja loparja (na dotik, ali z nagibanjem naprave)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

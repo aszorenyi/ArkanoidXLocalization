@@ -1,0 +1,10 @@
+﻿Spróbuj zbić wszystkie cegiełki na każdym poziomie. To najlepszy Arkanoid w jakiego grałeś!
+
+Właściwości:
+- bez żadnych addonów i reklam
+- 190 poziomów
+- 3 prędkości gry
+- 21 różnych bonusów
+- 2 rodzaje sterowania (dotyk i przechylanie/tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

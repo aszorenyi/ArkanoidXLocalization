@@ -1,0 +1,18 @@
+﻿Încercați să spargeti toate caramizile casabile pe fiecare nivel în acest joc grozav!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Regulile detaliate le gasiti in joc.
+
+Detalii:
+- 250 de nivele
+- 3 viteze de joc
+- 21 Bonusuri diferite
+- Doua moduri de control (tactil si cu giroscopul telefonului)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

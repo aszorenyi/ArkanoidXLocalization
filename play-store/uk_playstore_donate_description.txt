@@ -1,0 +1,18 @@
+﻿Спробуйте розбити всі крихкі цеглини на кожному рівні в цій справді великій грі з розбиття цегли!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Детальні правила подивіться в грі. 
+
+Особливості: 
+- 250 рівнів 
+- 3 швидкості гри 
+- 21 різних бонусів
+- два режими управління (сенсорний і нахил)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

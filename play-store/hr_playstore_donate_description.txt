@@ -1,0 +1,20 @@
+﻿Pokušaj razbiti sve blokove na svakoj razini u najboljoj brick breaker igri ikada!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Detaljnija pravila su u igri.
+
+Značajke:
+
+- 4 načina igre
+- 250 razina
+- 3 brzine igre
+- 21 različite nadogradnje
+- Dva načina kontrole (na dodir i pomoću akcelometra)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

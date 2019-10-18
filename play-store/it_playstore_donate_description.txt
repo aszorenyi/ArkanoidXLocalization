@@ -1,0 +1,16 @@
+Prova a rompere tutti i mattoni che si possono rompere  in ogni livello di questo grande braking game!
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+I dettagli sulle regole sono nel gioco.
+
+Features:
+- 4 modalita di gioco
+- 250 livelli
+- 3 velocita di gioco
+- due modalita di controllo (touch e tilt)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

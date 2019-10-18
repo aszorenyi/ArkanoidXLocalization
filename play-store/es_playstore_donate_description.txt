@@ -1,0 +1,19 @@
+﻿Intenta romper todos los ladrillos den cada nivel en este espectacular juego.
+
+Additional Donate Version features:
+- Unlock all levels with a single tap
+- More levels
+- Achievements via Google Play Game Services
+
+Also by buying ArkanoidX Donate version you are supporting further development.
+
+Las reglas detalladas están en el juego.
+
+Características:
+- 4 Modos de juego
+- 250 niveles
+- 3 Velocidades
+- 21 tipos diferentes de Poderes
+- Dos formas de control (táctil y por inclinación)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization

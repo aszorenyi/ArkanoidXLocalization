@@ -1,0 +1,12 @@
+﻿Versuche alle Steine zu zerstören in diesem großartigen Brick-Breaking-Spiel! 
+
+ Detaillierte Regeln findest du im Spiel. 
+
+ Features: 
+- Komplett umsonst und ohne Werbung 
+- 190 Level 
+- 3 Spielgeschwindingkeiten 
+- 21 verschiedene Power-ups 
+- 2 Kontrollmöglichkeiten (Touch & Bewegungssensor)
+
+Public translation: https://github.com/aszorenyi/arkanoidxlocalization
