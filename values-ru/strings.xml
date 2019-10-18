@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Version 1.0 -->
+    <string name="app_description">Игра АрканоидX</string>
+    <string name="device_not_supported">Устройство не поддерживается!</string>
+    <string name="loading">Загрузка</string>
+    <string name="game_paused">Пауза</string>
+    <string name="new_game">Новая игра</string>
+    <string name="options">Параметры</string>
+    <string name="exit">Выход</string>
+    <string name="back">Назад</string>
+    <string name="score">Счет</string>
+    <string name="level">Уровень</string>
+    <string name="on">Вкл</string>
+    <string name="off">Выкл</string>
+    <string name="music">Музыка</string>
+    <string name="sounds">Звуки</string>
+    <string name="vibrations">Вибрация</string>
+    <string name="controls">Управление</string>
+    <string name="touch">Касание</string>
+    <string name="tilt">Наклон</string>
+    <string name="powerups">Бонусы</string>
+    <string name="high_scores">Рекорды</string>
+    <string name="no_high_score">Нет рекордов</string>
+    <string name="reset">Сбросить</string>
+    <string name="new_high_score">Новый рекорд</string>
+    <string name="ok">Ок</string>
+    <string name="cancel">Отмена</string>
+    <string name="name">Имя</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="exit_dialog_title">Войти</string>
+    <string name="exit_dialog_message">Вы действительно хотите выйти?</string>
+    <string name="reset_high_scores_dialog_title">Сбросить рекорды</string>
+    <string name="reset_high_scores_dialog_message">Вы действительно хотите сбросить рекорды?</string>
+    <string name="empty_name_error">Имя не должно быть пустым!</string>
+   	<string name="resume">Продолжить</string>
+    <string name="restart">Перезапустить</string>
+    <string name="main_menu">Главное меню</string>
+    <string name="restart_dialog_title">Перезапуск игры</string>
+    <string name="restart_dialog_message">Вы действительно хотите перезапустить игру?</string>
+    <string name="main_menu_dialog_title">Выйти в главное меню</string>
+    <string name="main_menu_dialog_message">Вы действительно хотите выйти в главное меню?</string>
+    <string name="game_over">Игра окончена</string>
+    <string name="congratulations">Поздравляю!</string>
+    <string name="level_completed">Уровень пройден!</string>
+    <string name="help">Помощь</string>
+    <string name="game_goal_title">Цель игры</string>
+    <string name="game_goal">Попробуйте разбить все кирпичики на каждом уровне, чтобы получить как можно больше баллов и перейти к следующему уровню.</string>
+    <string name="basic_rules_title">Основные правила</string>
+    <string name="basic_rules">Водите веслом влево и вправо, чтобы отбить шарик(и). При попадании кирпичики исчезают. Игрок может управлять углом шарика и веслом. При этом шарик(и) будет отскакивать под тем же углом и в противоположном направлении после того, как он попадет в кирпичик.</string>
+    <string name="life_rules_title">Правила выживания</string>
+    <string name="life_rules">Игрок начинает игру с 3 жизней. Игра завершается, когда шарик достигает нижней (или верхней на некоторых уровнях) частей экрана, при условии, что у игрока нет больше жизней.</string>
+    <string name="points_title">Баллы</string>
+    <string name="bricks_title">Кирпичики</string>
+    <string name="bricks">Существует 4 вида кирпичиков.</string>
+    <string name="normal_and_hard_bricks_title">Обычные и Укрепленные кирпичики</string>
+    <string name="normal_and_hard_bricks">Кирпичики могут быть обычные и укрепленные. Укрепленные, как правило, темнее чем обычные, и по ним необходимо попасть дважды, чтобы разбить.</string>
+    <string name="unbreakable_bricks_title">Бронированные и Передвижные кирпичики</string>
+    <string name="unbreakable_bricks">Бронированные невозможно разбить.</string>
+    <string name="expand_paddle_help">Удлиняет весло.</string>
+    <string name="shrink_paddle_help">Укорачивает весло.</string>
+    <string name="dynamite_help">Снимает "бронь".</string>
+    <string name="faster_ball_help">Скорость шарика быстрее на 25%.</string>
+    <string name="slower_ball_help">Скорость шарика медленнее на 25%.</string>
+    <string name="fireball_help">Шарик(и) становятся огненными и разбивают все кирпичики (кроме бронированных).</string>
+    <string name="extra_life_help">Дает вам дополнительную жизнь (максимум 5).</string>
+    <string name="skull_help">Потеря жизни.</string>
+    <string name="level_up_help">Переход на след. уровень.</string>
+    <string name="magnet_help">Примагничивает шарик к веслу при касании и дает возможность отпускать в нужный вам момент.</string>
+    <string name="score_help">Добавляет случайное количество баллов из перечисленных: 20, 50, 75, 100, 150, 200, 250, 500, 800, 1000, 2000.</string>
+    <string name="shield_help">Создется защитная полоса на уровне весла продолжительностью 15 секунд. Защитная полоса на дает шарику достигнуть нижней (верхней) части экрана.</string>
+    <string name="split_ball_help">Умножает количество шариков на 2 (максимум 8).</string>
+    <string name="random_help">Случайный бонус.</string>
+    <string name="about">Об игре</string>
+    <string name="version">Версия</string>
+    <string name="created_by">Автор: Ádám Szörényi</string>
+    <string name="graphics_by">Графика: Ádám Szörényi &amp; Attila Lelkó</string>
+    <string name="background_by">Оформление: Thomas Osmonson</string>
+    <string name="music_by">Музыка: NSX</string>
+    <!-- Version 1.0.1 -->
+    <string name="ingame_background">Фон</string>
+    <!-- Verison 1.1 -->
+    <string name="game_speed">Скорость игры</string>
+    <string name="slow">Медленная</string>
+    <string name="normal">Обычная</string>
+    <string name="fast">Быстрая</string>
+    <string name="gameplay">Игровой процесс</string>
+    <string name="audio_and_vibrations">Звук и Вибрация</string>
+    <string name="tilt_sensitivity">Чувствительность</string>
+    <string name="low">Низкая</string>
+    <string name="medium">Средняя</string>
+    <string name="high">Высокая</string>
+    <string name="powerups_help">Существует %1$d разных бонусов в этой игре.</string>
+    <string name="mini_paddle_help">Уменьшает длину весла до минимальной.</string>
+    <string name="falling_bricks_help">Кирпичики будут опускаться каждый раз при попадании шарика(ов) в весло или в защитную полосу.</string>
+    <string name="lasers_help">Весло будет стрелять лазерами 8 секунд. Лазеры разбивают кирпичики (кроме бронированных).</string>
+	<string name="points" formatted="false">Значение для Обычной скорости игры. Низкая скорость составляет 75% от обычной, быстрая составляет 125% от обычной. Разбитие обычного кирпичика дает 100 очков,  укрепленного - 120 (20 + 100) очков. Если огненный шарик разбивает кирпичик, то игрок получает 75 очков. Завершение каждого уровня дает 2500 очков.</string>
+	<string name="music_volume">Громкость музыки</string>
+	<string name="sound_volume">Громкость звука</string>
+	<!--  Version 1.2 -->
+	<string name="language">Язык</string>
+	<string name="extreme">Экстремальная</string>
+	<string name="program">Программа</string>
+	<string name="translation">Перевод</string>
+	<string name="translated_by">Переведено: besik</string>
+	<string name="translator_email">besik1@rambler.ru</string>
+	<string name="translator_website">-</string>
+	<string name="online_high_scores">Онлайн рекорды</string>
+	<!--  Version 1.3 -->
+	<string name="animations">Анимация</string>
+	<string name="powerless_ball_help">Шарик(и) теряют свою энергию за 12 секунд. После этого они не могут разбивать кирпичики.</string>
+	<string name="disable_paddle_control_help">Весло Теряет контроль над шариком(ами) через 12 секунд. В этот период шарик(и)всегда будет отражаться под тем же углом и в противоположном \u0020направлении от весла.</string>
+	<string name="reset_help">Обнуляет все бонусы (кроме количества шариков).</string>
+	<!-- Version 1.4 -->
+    <string name="color_mode_help">В этом режиме игры шарики меняют свой цвет между желтым и красным  каждые 15 секунд. Для того чтобы разбить кирпичик необходимо красным шариком попасть в красный кирпичик,  соответственно желтым шариком разбить желтый кирпичик. Оранжевые кирпичики  могут быть разбиты обоими шариками.</string>
+		<!-- Version 1.5 -->
+	<string name="graphics">Графика</string>
+	<string name="background">Фон</string>
+	<string name="modern_background">Фон "Модерн"</string>
+	<string name="classic_background">Фон "Классический"</string>
+	<string name="time_trial_and_extreme_mode_points">В режимах "Time Trial" и "Extreme" игрок получает 8 баллов за каждую из неиспользованных секунд при досрочном завершении уровня</string>
+	<string name="time_trial_mode_help">В режиме "Time Trial" есть ограничения по времени на каждом уровне. Когда время истекло, игра заканчивается. Длительность  при скорости игры "Обычная" равна 8 минутам,  при скорости игры "Медленная" равна 10 минутам и при скорости игры "Быстрая" равна 6 минутам.</string>
+	<string name="extreme_mode_help">Режим "Extreme" представляет собой  сочетание режима "Color Mode" и "Time Trial Mode". Продолжительность игры в этом режиме составляет  10 минут  при скорости игры "Нормальная",  12 минут при "Медленная" и  8 минут при "быстрая.</string>
+	<string name="extra_time_help">Этот Бонус появляется только в режиме "Time Trial" и "Extreme Modes" Он продлевает время игры в текущем уровне на 60 секунд при скорости игры "Нормальная",  80 секунд при "Медленная" и 40 секунд при "Быстрая"</string>
+</resources>

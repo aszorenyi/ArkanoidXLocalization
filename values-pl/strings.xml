@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Version 1.0 -->
+    <string name="app_description">"Arkanoid"</string>
+    <string name="device_not_supported">Urządzenie nieobsługiwane!</string>
+    <string name="loading">Ładowanie</string>
+    <string name="game_paused">Pauza</string>
+    <string name="new_game">"Nowa gra"</string>
+    <string name="options">"Opcje"</string>
+    <string name="exit">"Wyjście"</string>
+    <string name="back">"Powrót"</string>
+    <string name="score">"Wynik"</string>
+    <string name="level">"Poziom"</string>
+    <string name="on">"Włącz"</string>
+    <string name="off">"Wyłącz"</string>
+    <string name="music">"Muzyka"</string>
+    <string name="sounds">"Dźwięki"</string>
+    <string name="vibrations">"Wibracje"</string>
+    <string name="controls">"Ustawienia"</string>
+    <string name="touch">"Dotyk"</string>
+    <string name="tilt">Przechylenie</string>
+    <string name="powerups">"Bonusy"</string>
+    <string name="high_scores">"Najlepsze wyniki"</string>
+    <string name="no_high_score">"Brak najlepszego wyniku"</string>
+    <string name="reset">"Reset"</string>
+    <string name="new_high_score">"Nowy najlepszy wynik"</string>
+    <string name="ok">"OK"</string>
+    <string name="cancel">"Przerwij"</string>
+    <string name="name">"Nazwa"</string>
+    <string name="yes">"Tak"</string>
+    <string name="no">"Nie"</string>
+    <string name="exit_dialog_title">"Wyjście"</string>
+    <string name="exit_dialog_message">"Czy na pewno chcesz wyjść z gry?"</string>
+    <string name="reset_high_scores_dialog_title">"Zresetuj najlepsze wyniki"</string>
+    <string name="reset_high_scores_dialog_message">"Czy na pewno chcesz zresetować wyniki?"</string>
+    <string name="empty_name_error">"Pole nie może być puste!"</string>
+   	<string name="resume">"Ponów"</string>
+    <string name="restart">"Uruchom ponownie"</string>
+    <string name="main_menu">"Główne menu"</string>
+    <string name="restart_dialog_title">"Uruchom ponownie grę"</string>
+    <string name="restart_dialog_message">"Czy na pewno chcesz uruchomić ponownie?"</string>
+    <string name="main_menu_dialog_title">"Wyjdź do głównego menu"</string>
+    <string name="main_menu_dialog_message">"Czy na pewno chcesz przejść do głównego menu?"</string>
+    <string name="game_over">"Koniec gry"</string>
+    <string name="congratulations">"Gratulacje!"</string>
+    <string name="level_completed">"Poziom ukończony"</string>
+    <string name="help">"Pomoc"</string>
+    <string name="game_goal_title">"Zasady gry"</string>
+    <string name="game_goal">"Postaraj się zbić wszystkie cegły aby zdobyć jak najlepszy wynik i przejść do następnego poziomu."</string>
+    <string name="basic_rules_title">"Podstawowe zasady"</string>
+    <string name="basic_rules">"Przesuń deseczkę w lewo i wprawo aby odbić piłeczkę(i). Na każdym poziomie musisz zbić wszystkie cegły. Piłeczka(i) będzie odbijać się od cegiełek niszcząc je i wracać na deseczkę, gdzie znowu się odbije."</string>
+    <string name="life_rules_title">"Życie - zasady"</string>
+    <string name="life_rules">"Zaczynasz grę mając 3 życia. Gra kończy się kiedy piłka dotknie dołu (lub góry na niektórych poziomach) ekranu, kiedy nie masz już więcej żyć."</string>
+    <string name="points_title">"Punkty"</string>
+    <string name="bricks_title">"Cegły"</string>
+    <string name="bricks">"Są 4 rodzaje cegieł"</string>
+    <string name="normal_and_hard_bricks_title">"Normalne i twarde cegły"</string>
+    <string name="normal_and_hard_bricks">"Te cegły mogą być normalne lub twarde. Twarde mają ciemniejszy kolor niż normalne i aby je zniszczyć musisz w nie trafić 2 razy - w normalne tylko raz, "</string>
+    <string name="unbreakable_bricks_title">"Niezniszczalne i ruchome cegły"</string>
+    <string name="unbreakable_bricks">"Tego typu cegieł nie zniszczysz"</string>
+    <string name="expand_paddle_help">"Przedłuża deseczkę"</string>
+    <string name="shrink_paddle_help">"Skraca deseczkę"</string>
+    <string name="dynamite_help">"Wszystkie cegły możesz zniszczyć"</string>
+    <string name="faster_ball_help">"Przyspiesza piłeczkę o 25%"</string>
+    <string name="slower_ball_help">"Zwalnia piłeczkę o 25%"</string>
+    <string name="fireball_help">"Zmienia wszystkie piłeczki w polu na ogniste, które niszczą wszystkie cegły oprócz niezniszczalnych"</string>
+    <string name="extra_life_help">"Dodatkowe życie (maksymalnie 5)"</string>
+    <string name="skull_help">"Utrata życia"</string>
+    <string name="level_up_help">"Poziom wyżej"</string>
+    <string name="magnet_help">"Magnes przyciąga piłeczki do deseczki i puszcza je kiedy potrzebujesz"</string>
+    <string name="score_help">"Wynik"</string>
+    <string name="shield_help">"Tworzy osłonę deseczki na 15 sekund. Osłona zapobiega upadkowi pileczki."</string>
+    <string name="split_ball_help">"Klonuje piłeczkę do maksymalnie 8 sztuk."</string>
+    <string name="random_help">"Losowy bonus"</string>
+    <string name="about">"O"</string>
+    <string name="version">"Wersja"</string>
+    <string name="created_by">"Stworzony przez: Ádám Szörényi"</string>
+    <string name="graphics_by">"Grafika: Ádám Szörényi &amp; Attila Lelkó"</string>
+    <string name="background_by">"Tło: Thomas Osmonson"</string>
+    <string name="music_by">"Muzyka: NSX"</string>
+    <!-- Version 1.0.1 -->
+    <string name="ingame_background">"Tło w grze"</string>
+    <!-- Verison 1.1 -->
+    <string name="game_speed">"Szybkość gry"</string>
+    <string name="slow">"Wolno"</string>
+    <string name="normal">"Normalnie"</string>
+    <string name="fast">"Szybko"</string>
+    <string name="gameplay">"Rozgrywka"</string>
+    <string name="audio_and_vibrations">"Dźwięki i wibracje"</string>
+    <string name="tilt_sensitivity">Czułość przechylenia</string>
+    <string name="low">"Wolno"</string>
+    <string name="medium">"Średnio"</string>
+    <string name="high">"Szybko"</string>
+    <string name="powerups_help">"W grze jest %1$d różnych bonusów."</string>
+    <string name="mini_paddle_help">"Zmniejsza długość deseczki do minimum"</string>
+    <string name="falling_bricks_help">"Cegły będą spadać za każdym razem gdy piłka uderzy w deseczkę lub osłonę"</string>
+    <string name="lasers_help">"Deseczka będzie strzelać laserem przez 8 sekund. Laser zniszczy cegły (poza niezniszczalnymi)"</string>
+	<string name="points" formatted="false">"Wartości dla normalnej prędkości gry. Wolna prędkość to 75%, szybka to 125%. Zniszczenie normalnej cegły da 100 punktów. Zbicie ciężkiej cegły da 120 punktów (20+100). Gdy ognista piłeczka zbije cegłę gracz dostanie 75 punktów. Każe zakończenie poziomu daje 2500 punktów."</string>
+	<string name="music_volume">"Głośność muzyki"</string>
+	<string name="sound_volume">"Głośność dźwięków"</string>
+	<!--  Version 1.2 -->
+	<string name="language">"Język"</string>
+	<string name="extreme">"Ekstremalny"</string>
+	<string name="program">"Program"</string>
+	<string name="translation">"Tłumaczenie"</string>
+	<string name="translated_by">"Tłumaczył: Marek Butrowski / thorn_pl"</string>
+	<string name="translator_email">"mbutrowskil@hotmail.com"</string>
+	<string name="translator_website">"http://i600.net.pl"</string>
+	<string name="online_high_scores">"Najlepsze wyniki online"</string>
+	<!--  Version 1.3 -->
+	<string name="animations">"Animacje"</string>
+	<string name="powerless_ball_help">"Piłka straci energię na 12 sekund. Przez ten czas nie zbija cegiełek."</string>
+	<string name="disable_paddle_control_help">"Deseczka straci kontrolę na piłką na 12 sekund. Po tym czasie piłka(i) zawsze wraca pod takim samym kątem, w kierunku przeciwnym od deseczki."</string>
+	<string name="reset_help">"Resetuje wszystkie ulepszenia (poza ilością piłek w polu)"</string>
+	<!-- Version 1.4 -->
+    <string name="color_mode_help">W tym trybie gry piłki co 15 sekund zmieniają swój kolor pomiędzy czerwonym i żółtym. Żeby rozbić czerwoną cegłę, należy trafić ją czerwoną piłką, natomiast żółta cegłę musi zostać trafiona żółtą piłką. Pomarańczowe cegły można rozbić dowolną piłką.</string>
+</resources>

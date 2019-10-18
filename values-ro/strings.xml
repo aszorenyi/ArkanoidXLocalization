@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Version 1.0 -->
+    <string name="app_description">"Jocul Arkanoid"</string>
+    <string name="device_not_supported">"Dispozitivul nu este compatibil!"</string>
+    <string name="loading">Se Incarca</string>
+    <string name="game_paused">Joc Intrerupt</string>
+    <string name="new_game">"Joc nou"</string>
+    <string name="options">"Optiuni"</string>
+    <string name="exit">"Iesire"</string>
+    <string name="back">"Inapoi"</string>
+    <string name="score">"Scor"</string>
+    <string name="level">"Nivel"</string>
+    <string name="on">"Pornit"</string>
+    <string name="off">"Oprit"</string>
+    <string name="music">"Muzica"</string>
+    <string name="sounds">"Sunete"</string>
+    <string name="vibrations">"Vibratii"</string>
+    <string name="controls">"Controale"</string>
+    <string name="touch">"Ecran Tactil"</string>
+    <string name="tilt">"Giroscop"</string>
+    <string name="powerups">"Bonus"</string>
+    <string name="high_scores">"Recorduri"</string>
+    <string name="no_high_score">"Nu sunt recorduri"</string>
+    <string name="reset">"Sterge"</string>
+    <string name="new_high_score">"Nou Record"</string>
+    <string name="ok">"OK"</string>
+    <string name="cancel">"Abandon"</string>
+    <string name="name">"Nume"</string>
+    <string name="yes">"Da"</string>
+    <string name="no">"Nu"</string>
+    <string name="exit_dialog_title">"Iesire"</string>
+    <string name="exit_dialog_message">"Sigur vrei sa iesi din joc?"</string>
+    <string name="reset_high_scores_dialog_title">"Sterge Recordurile"</string>
+    <string name="reset_high_scores_dialog_message">"Sigur vrei sa stergi recordurile?"</string>
+    <string name="empty_name_error">"Numele este obligatoriu!"</string>
+   	<string name="resume">"Continua"</string>
+    <string name="restart">"Reporneste"</string>
+    <string name="main_menu">"Meniu"</string>
+    <string name="restart_dialog_title">"Reporneste Jocul"</string>
+    <string name="restart_dialog_message">"Sigur vrei sa repornesti jocul?"</string>
+    <string name="main_menu_dialog_title">"Inapoi la meniu"</string>
+    <string name="main_menu_dialog_message">"Sigur vrei sa te intorci la meniu?"</string>
+    <string name="game_over">"Jocul s-a incheiat"</string>
+    <string name="congratulations">"Felicitari!"</string>
+    <string name="level_completed">"Nivel Complet!"</string>
+    <string name="help">"Ajutor"</string>
+    <string name="game_goal_title">"Scopul Jocului"</string>
+    <string name="game_goal">"Încercați să spargeti toate caramizile de la fiecare nivel pentru a obține un scor cat mai mare și pentru a avansa la nivelul următor."</string>
+    <string name="basic_rules_title">"Reguli de Baza"</string>
+    <string name="basic_rules">"Miscati paleta la stânga și la dreapta pentru a lovi bila. Fiecare nivel se incheie cand  toate cărămizile casabile sunt distruse. Jucatorul poate modifica unghiul bilei cu ajutorul paletei. Bila va sări cu același unghi și în direcția opusă, după ce lovește o cărămidă."</string>
+    <string name="life_rules_title">"Vietile"</string>
+    <string name="life_rules">"Jucatorul incepe jocul cu 3 vieti. Jocul se incheie cand bila atinge partea de jos a ecranului (si partea de sus la anumite nivele), iar jucatorul nu mai are nicio viata."</string>
+    <string name="points_title">"Puncte"</string>
+    <string name="bricks_title">"Caramizi"</string>
+    <string name="bricks">"Sunt patru tipuri de caramizi in joc."</string>
+    <string name="normal_and_hard_bricks_title">"Caramizi normale si tari"</string>
+    <string name="normal_and_hard_bricks">"Acest tip de caramizi pot fi normale sau tari. Caramizile tari au de obicei culori mai inchise decat cele normale si trebuie lovite de doua ori a se sparge."</string>
+    <string name="unbreakable_bricks_title">"Caramizi indestructibile si miscatoare"</string>
+    <string name="unbreakable_bricks">"Acest tip de caramizi nu pot fi distruse."</string>
+    <string name="expand_paddle_help">"Mareste lungimea paletei."</string>
+    <string name="shrink_paddle_help">"Micsoreaza lungimea paletei."</string>
+    <string name="dynamite_help">"Face toate caramizile destructibile."</string>
+    <string name="faster_ball_help">"Mareste viteza bilei cu 25%."</string>
+    <string name="slower_ball_help">"Micsoreaza viteza bilei cu 25%."</string>
+    <string name="fireball_help">"Transforma toate bilele in bile de foc. Bilele de foc distrug orice caramida (mai putin cele indestructibile)."</string>
+    <string name="extra_life_help">"Ofera o viata in plus (maximum 5)."</string>
+    <string name="skull_help">"Pierzi o viata."</string>
+    <string name="level_up_help">"Nivel Urmator"</string>
+    <string name="magnet_help">"Acordă paletei capacitatea de a prinde bila si de a o elibera atunci cand este necesar."</string>
+    <string name="score_help">Grants random amount of scores from these values: 20, 50, 75, 100, 150, 200, 250, 500, 800, 1000, 2000.</string>
+    <string name="shield_help">"Creeaza un scut pe paleta timp de 15 secunde. Scutul impiedica bila sa cada."</string>
+    <string name="split_ball_help">"Cloneaza toate bilele (maximum 8)."</string>
+    <string name="random_help">"Ofera un bonus aleator."</string>
+    <string name="about">"Despre"</string>
+    <string name="version">"Versiunea"</string>
+    <string name="created_by">"Creat de: Ádám Szörényi"</string>
+    <string name="graphics_by">"Grafica: Ádám Szörényi &amp; Attila Lelkó"</string>
+    <string name="background_by">"Fundal de: Thomas Osmonson"</string>
+    <string name="music_by">"Muzica de: NSX"</string>
+    <!-- Version 1.0.1 -->
+    <string name="ingame_background">"Fundalul din joc"</string>
+    <!-- Verison 1.1 -->
+    <string name="game_speed">"Viteza Jocului"</string>
+    <string name="slow">"Lent"</string>
+    <string name="normal">"Normal"</string>
+    <string name="fast">"Rapid"</string>
+    <string name="gameplay">"Configurare"</string>
+    <string name="audio_and_vibrations">"Sunet &amp; Vibratii"</string>
+    <string name="tilt_sensitivity">"Sensibilitate Giroscop"</string>
+    <string name="low">"Scazut"</string>
+    <string name="medium">"Mediu"</string>
+    <string name="high">"Ridicat"</string>
+    <string name="powerups_help">"Sunt %1$d Bonusuri in joc."</string>
+    <string name="mini_paddle_help">"Scade lungimea paletei la minimum."</string>
+    <string name="falling_bricks_help">"Caramizile vor cadea de fiecare data cand o bila atinge o paleta sau un scut."</string>
+    <string name="lasers_help">"Paleta va trage cu laser timp de 8 secunde. Laserul distruge caramizile (mai putin caramizile indestructibile)."</string>
+	<string name="points" formatted="false">The values are for the normal game speed. The slow speed gives the 75%, the fast speed gives the 125% of the given values. Breaking a normal brick gives 100 points. Breaking a hard brick gives 120 (20 + 100) points. When a fireball goes through a brick, the player gets 75 points. Every level completion gives 2500 points.</string>
+	<string name="music_volume">"Volum muzica"</string>
+	<string name="sound_volume">"Volum sunet"</string>
+	<!--  Version 1.2 -->
+	<string name="language">"Limba"</string>
+	<string name="extreme">"Extrem"</string>
+	<string name="program">"Program"</string>
+	<string name="translation">"Traducere"</string>
+	<string name="translated_by">"Tradus de: Van Testing"</string>
+	<string name="translator_email">"van.at.test@gmail.com"</string>
+	<string name="translator_website">"-"</string>
+	<string name="online_high_scores">"Recorduri Online"</string>
+	<!--  Version 1.3 -->
+	<string name="animations">"Animatii"</string>
+	<string name="powerless_ball_help">"Bilele isi vor pierde energia timp de 12 secunde. In acest timp ele nu pot sparge caramizi."</string>
+	<string name="disable_paddle_control_help">"Paleta va pierde controlul bilei timp de 12 secunde. In acest timp bila va sari intotdeauna inapoi la acelasi unghi si in directia opusa din paleta ."</string>
+	<string name="reset_help">"Reseteaza toate Bonusurile (cu exceptia numarului de bile de pe ecran)."</string>
+	<!-- Version 1.4 -->
+    <string name="color_mode_help">In this game mode the balls change their color in every 15 seconds between red and yellow. In order to break a brick the red ball has to hit the red brick and the yellow ball has to hit the yellow brick. Orange bricks can be broken by both balls.</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en" tools:ignore="MissingTranslation">
+    <!-- Version 1.0 -->
+    <string name="app_description">Arkanoid game</string>
+    <string name="device_not_supported">Device not supported!</string>
+    <string name="loading">Loading</string>
+    <string name="game_paused">Game Paused</string>
+    <string name="new_game">New Game</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+    <string name="back">Back</string>
+    <string name="score">Score</string>
+    <string name="level">Level</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="music">Music</string>
+    <string name="sounds">Sounds</string>
+    <string name="vibrations">Vibrations</string>
+    <string name="controls">Controls</string>
+    <string name="touch">Touch</string>
+    <string name="tilt">Tilt</string>
+    <string name="powerups">Power-Ups</string>
+    <string name="high_scores">High Scores</string>
+    <string name="no_high_score">No High Score</string>
+    <string name="reset">Reset</string>
+    <string name="new_high_score">New High Score</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="exit_dialog_title">Exit</string>
+    <string name="exit_dialog_message">Are you sure you want to exit game?</string>
+    <string name="reset_high_scores_dialog_title">Reset High Scores</string>
+    <string name="reset_high_scores_dialog_message">Are you sure you want to reset high scores?</string>
+    <string name="empty_name_error">Name cannot be empty!</string>
+   	<string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="restart_dialog_title">Restart Game</string>
+    <string name="restart_dialog_message">Are you sure you want to restart game?</string>
+    <string name="main_menu_dialog_title">Exit to Main Menu</string>
+    <string name="main_menu_dialog_message">Are you sure you want to exit to main menu?</string>
+    <string name="game_over">Game Over</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="level_completed">Level Completed!</string>
+    <string name="help">Help</string>
+    <string name="game_goal_title">Game Goal</string>
+    <string name="game_goal">Try to break all bricks on every level to get scores as high as you can and advance to the next level.</string>
+    <string name="basic_rules_title">Basic Rules</string>
+    <string name="basic_rules">Slide the paddle(s) left and right to bounce back the ball(s). Each level is cleared by breaking all breakable bricks on the screen. The player can control the ball\'s angle with the paddle(s). The ball(s) will bounce off at the same angle and in the opposite direction after it hits a brick.</string>
+    <string name="life_rules_title">Life Rules</string>
+    <string name="life_rules">The player starts the game with 3 lives. The game ends when the ball touches the bottom (and the top on some levels) of the screen when the player has no more lives left.</string>
+    <string name="points_title">Points</string>
+    <string name="bricks_title">Bricks</string>
+    <string name="bricks">There are four different type of bricks in the game.</string>
+    <string name="normal_and_hard_bricks_title">Normal and Hard Bricks</string>
+    <string name="normal_and_hard_bricks">These type of bricks can be normal or hard. Hard bricks are usually have darker colors than the normal ones and needs to be hit twice to break.</string>
+    <string name="unbreakable_bricks_title">Unbreakable and Moving Bricks</string>
+    <string name="unbreakable_bricks">These type of bricks cannot be broken.</string>
+    <string name="expand_paddle_help">Increases the length of the paddle(s).</string>
+    <string name="shrink_paddle_help">Decreases the length of the paddle(s).</string>
+    <string name="dynamite_help">Makes all bricks breakable.</string>
+    <string name="faster_ball_help">Increases the speed of the ball(s) by 25%.</string>
+    <string name="slower_ball_help">Decreases the speed of the ball(s) by 25%.</string>
+    <string name="fireball_help">Transforms all balls on the field to fireballs. Fireballs break through every brick (except unbreakables).</string>
+    <string name="extra_life_help">Grants an extra life (maximum 5).</string>
+    <string name="skull_help">Lose a life.</string>
+    <string name="level_up_help">Level Up.</string>
+    <string name="magnet_help">Grants the paddle(s) the ability to catch the ball(s) and release them when necessary.</string>
+    <string name="score_help">Grants random amount of scores from these values: 20, 50, 75, 100, 150, 200, 250, 500, 800, 1000, 2000.</string>
+    <string name="shield_help">Creates a shield on the paddle(s) for 15 seconds. The shield prevents the ball(s) from falling down.</string>
+    <string name="split_ball_help">Clones all balls on the field (maximum 8).</string>
+    <string name="random_help">Gives a random Power-Up.</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="created_by">Created by: Ádám Szörényi</string>
+    <string name="graphics_by">Graphics by: Ádám Szörényi &amp; Attila Lelkó</string>
+    <string name="background_by">Background by: Thomas Osmonson</string>
+    <string name="music_by">Music by: NSX</string>
+    <!-- Version 1.0.1 -->
+    <string name="ingame_background">Ingame Background</string>
+    <!-- Verison 1.1 -->
+    <string name="game_speed">Game Speed</string>
+    <string name="slow">Slow</string>
+    <string name="normal">Normal</string>
+    <string name="fast">Fast</string>
+    <string name="gameplay">Gameplay</string>
+    <string name="audio_and_vibrations">Audio &amp; Vibrations</string>
+    <string name="tilt_sensitivity">Tilt Sensitivity</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="powerups_help">There are %1$d different Power-Ups in the game.</string>
+    <string name="mini_paddle_help">Decreases the paddle(s) length to the minimum.</string>
+    <string name="falling_bricks_help">Bricks will fall down every time when a ball hits a paddle or a shield.</string>
+    <string name="lasers_help">The paddle(s) will shoot lasers for 8 seconds. Lasers are destroying bricks (except unbreakables).</string>
+	<string name="points" formatted="false">The values are for the normal game speed. The slow speed gives the 75%, the fast speed gives the 125% of the given values. Breaking a normal brick gives 100 points. Breaking a hard brick gives 120 (20 + 100) points. When a fireball goes through a brick, the player gets 75 points. Every level completion gives 2500 points.</string>
+	<string name="music_volume">Music Volume</string>
+	<string name="sound_volume">Sound Volume</string>
+	<!--  Version 1.2 -->
+	<string name="language">Language</string>
+	<string name="extreme">Extreme</string>
+	<string name="program">Program</string>
+	<string name="translation">Translation</string>
+	<string name="translated_by">Translated by: Ádám Szörényi</string>
+	<string name="translator_email">fatal07@gmail.com</string>
+	<string name="translator_website">http://www.facebook.com/ArkanoidX</string>
+	<string name="online_high_scores">Online High Scores</string>
+	<!--  Version 1.3 -->
+	<string name="animations">Animations</string>
+	<string name="powerless_ball_help">The balls will lose their energy for 12 seconds. During that time they cannot break bricks.</string>
+	<string name="disable_paddle_control_help">The paddle(s) will lose control of the ball(s) for 12 seconds. During that time the ball(s) will always bounce back at the same angle and in the opposite direction from the paddle(s).</string>
+	<string name="reset_help">Resets all Power-Ups (except the number of the balls on the field).</string>
+	<!-- Version 1.4 -->
+    <string name="color_mode_help">In this game mode the balls change their color in every 15 seconds between red and yellow. In order to break a brick the red ball has to hit the red brick and the yellow ball has to hit the yellow brick. Orange bricks can be broken by both balls.</string>
+	<!-- Version 1.5 -->
+	<string name="graphics">Graphics</string>
+	<string name="background">Background</string>
+	<string name="modern_background">Modern Background</string>
+	<string name="classic_background">Classic Background</string>
+	<string name="time_trial_and_extreme_mode_points">In Time Trial and Extreme Modes the player gets 8 points for every remaining seconds when a level is completed.</string>
+	<string name="time_trial_mode_help">In Time Trial Mode there is a time limit on each level. When the time is up, the game ends. The time limit is 8 minutes for normal, 10 for slow and 6 for fast speed.</string>
+	<string name="extreme_mode_help">Extreme Mode is a combination of Color Mode and Time Trial Mode. The time limit in Extreme Mode is 10 minutes for normal, 12 for slow and 8 for fast speed.</string>
+	<string name="extra_time_help">This Power-Up only appears in Time Trial and Extreme Modes. It increases the remaining time on the current level by 60 seconds for normal, 80 for slow and 40 for fast speed.</string>
+	<!-- Version 1.6 -->
+	<string name="error">Error</string>
+	<string name="backup_and_restore">Backup &amp; Restore</string>
+	<string name="backup_data">Backup Data</string>
+	<string name="restore_data">Restore Data</string>
+	<string name="restore_data_dialog_message">Would you like to restore your data?\n\nThis will overwrite your current High Scores and Level Completion data!</string>
+	<string name="backup_completed_dialog_title">Backup Completed</string>
+	<string name="backup_completed_dialog_message">Backup completed successfully!</string>
+	<string name="backup_failed_dialog_message">Cannot create backup!\n\nPlease make sure the SD Card is available!</string>
+	<string name="restore_completed_dialog_title">Restore Completed</string>
+	<string name="restore_completed_dialog_message">Restore completed successfully!</string>
+	<string name="restore_failed_dialog_message">Cannot restore settings!\n\nPlease make sure the SD card is available!</string>
+	<string name="backup_not_found_dialog_message">Backup not found!</string>
+	<string name="restore_not_possible_dialog_message">You cannot restore a backup created with the donate version!</string>
+	<string name="unlock_all_levels">Unlock All Levels</string>
+	<string name="unlock_all_levels_dialog_message">Are you sure you want to unlock all levels?\n\nThis can\'t be undone!</string>
+	<string name="backup_found_dialog_title">Backup Found</string>
+	<string name="backup_found_dialog_message">A backup found on your device, would you like to restore it?</string>
+	<string name="donate_dialog_title">Donation</string>
+	<string name="donate_dialog_message">Thank you for playing ArkanoidX!\n\nPlease consider donating if you like the game!\n\nWould you like to buy the donate version now?</string>
+	<string name="maybe_later">Maybe Later</string>
+    <!-- Version 1.7 -->
+    <string name="enable_gameservices_title">Google Play Game Services</string>
+    <string name="enable_gameservices_message">Would you like to enable Google Play Game Services for Online High Scores?\n\nThis feature is optional and you can always enable later by touching Google Play Game Services icon in Main Menu.</string>
+    <string name="gameservices_signout_title">Sign Out</string>
+    <string name="gameservices_signout_message">Would you like to sign out from Google Play Game Services?</string>
+    <string name="gameservices_sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="achievements">Achievements</string>
+    <string name="only_in_donate_version_dialog_message">The requested feature is only available in the donate version!\n\nWould you like to buy it now?</string>
+    <!-- Version 1.8.2 -->
+    <string name="restore_failed_invalid_file_dialog_message">Cannot restore settings!\n\nThe selected file is either corrupted or it\'s not an ArkanoidX backup file.</string>
+</resources>
