@@ -154,4 +154,8 @@
     <string name="only_in_donate_version_dialog_message">A kért funkció csak a Donate verzióban érhető el!\n\nSzeretné most megvásárolni?</string>
 	<!-- Version 1.8.2 -->
 	<string name="restore_failed_invalid_file_dialog_message">Hiba történt a visszaállításkor!\n\nA kiválasztott fájl sérült, vagy nem ArkanoidX mentést tartalmaz!</string>
+	<!-- Version 1.8.6 -->
+	<string name="render_mode">Renderelés Módja</string>
+	<string name="render_mode_stretch">Nyújtás</string>
+	<string name="render_mode_keep_original_aspect_ratio">Eredeti képarány megtartása</string>
 </resources>
