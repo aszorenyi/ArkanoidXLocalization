@@ -154,4 +154,8 @@
     <string name="only_in_donate_version_dialog_message">The requested feature is only available in the donate version!\n\nWould you like to buy it now?</string>
     <!-- Version 1.8.2 -->
     <string name="restore_failed_invalid_file_dialog_message">Cannot restore settings!\n\nThe selected file is either corrupted or it\'s not an ArkanoidX backup file.</string>
+    <!-- Version 1.8.6 -->
+    <string name="render_mode">Rendering Mode</string>
+    <string name="render_mode_stretch">Stretch</string>
+    <string name="render_mode_keep_original_aspect_ratio">Keep Original Aspect Ratio</string>
 </resources>
